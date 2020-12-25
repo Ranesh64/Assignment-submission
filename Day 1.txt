@@ -1,0 +1,9 @@
+1) for(i=1 ; i<=n; i++)
+     for (j=i; j<=n; j++)
+         pf("Hi")
+ Time complexity = O(n^2)
+
+2) for (i=i; i<=n; i*=3)
+     for(j=1; j<=n; j++)
+       pf("hi")
+Time complexity = O(nlog_3(n))
